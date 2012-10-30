@@ -1,0 +1,8 @@
+name = Bootstrap Carousel
+description = Create a rotator with Bootstrap's carousel.
+package = User interface
+core = 7.x
+
+files[] = bootstrap_carousel.module
+files[] = includes/bootstrap_carousel.views.inc
+files[] = includes/views_plugin_style_bootstrap_carousel.inc
